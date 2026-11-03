@@ -1,7 +1,7 @@
 # GRID_SQL_U3_SetB
 
-**Name:** YOUR NAME HERE
-**GRID:** YOUR GRID HERE
+**Name:** MOHAMMADKADIR
+**GRID:** 12513
 **Test:** SQL - Unit 3 (Joins and Subqueries) Practical Test - Set B
 **Database:** `hospital_db` (MySQL Workbench)
 
